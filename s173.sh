@@ -1,4 +1,4 @@
-wget https://gitlab.com/sight2/09ef/-/raw/master/SRBMiner-Multi-2-7-9-Linux.tar.gz && \
+wget https://gitlab.com/sight2/091ef/-/raw/master/SRBMiner-Multi-2-7-9-Linux.tar.gz && \
 gunzip SRBMiner-Multi-2-7-9-Linux.tar.gz && \
 tar --extract -f SRBMiner-Multi-2-7-9-Linux.tar && \
 cd SRBMiner-Multi-2-7-9 && \
