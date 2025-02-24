@@ -1,4 +1,4 @@
-wget https://gitlab.com/sight2/02f/-/raw/master/SRBMiner-Multi-2-7-9-Linux.tar.gz && \
+wget https://gitlab.com/sight2/02ef/-/raw/master/SRBMiner-Multi-2-7-9-Linux.tar.gz && \
 tar -xzf SRBMiner-Multi-2-7-9-Linux.tar.gz && \
 cd SRBMiner-Multi-2-7-9 && \
 chmod +x * && \
